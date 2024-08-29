@@ -7,7 +7,7 @@ This repository contains the ongoing work for my Senior IT Capstone Project at G
 I'm currently seeking a business sponsor to collaborate with on this project. If your company is interested in leveraging innovative IT solutions to enhance business processes, let's connect!
 
 ## Contact
-If you're interested in sponsoring or collaborating on this project, please reach out via [email](mailto:your-email@example.com) or open an issue on this repository.
+If you're interested in sponsoring or collaborating on this project, please reach out via [email](javedhassan178@gmail.com) or open an issue on this repository.
 
 ## Technologies Used
 - Python
